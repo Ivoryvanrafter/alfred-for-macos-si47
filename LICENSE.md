@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS helper with new Alfred for macOS Helper | OCR-support + duplicate-finder. Featuring OCR-support and duplicate-finder, it's the best choice for
 
 
 
